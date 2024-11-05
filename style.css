@@ -1,4 +1,11 @@
 body {
   background:#f0b7b7 ;
   font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  flex-wrap: wrap;
+}
+.hsm {
+  text-align: center;
 }
